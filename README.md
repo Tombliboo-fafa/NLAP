@@ -15,7 +15,7 @@ Before running any experiments:
 A demo script `run.sh` is provided for testing the pipeline:
 
 ```bash
-sh /run.sh
+sh ./run.sh
 ```
 
 This will run a simple example demonstrating data loading, NLAP refinement, and evaluation.
